@@ -1,4 +1,4 @@
-# Coursework · ITS Tech Talent Factory
+# Coursework — ITS Tech Talent Factory
 
 Exercises and exam projects from my Fullstack Software Development program at ITS Tech Talent Factory in Milan (2025–2027). 
 
